@@ -4,7 +4,7 @@ function Garage() {
     return (
         <>
         <h1>Yo, what's that in my garage?</h1>
-        <Car color="red"/>
+        <Car color="green"/>
         </>
     );
 }
